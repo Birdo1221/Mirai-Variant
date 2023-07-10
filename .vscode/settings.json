@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "includes.h": "c",
+        "checksum.h": "c",
+        "attack.h": "c",
+        "rand.h": "c",
+        "util.h": "c",
+        "table.h": "c",
+        "protocol.h": "c",
+        "killer.h": "c",
+        "resolv.h": "c",
+        "httpd.h": "c"
+    }
+}
