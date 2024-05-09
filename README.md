@@ -10,10 +10,13 @@ I have Skidripped it, use if you must i will say to use the actual mirai
 source to build this as help if you stuggle compiling / running either the Controller / Client.
 You will need a basic knowledge of .C and simple programming skills if you want this to work properly.
 I have not add the full source of this varient as it just like the rest, in the WORLD.
+
 ```
 
 `
+
 (Gotta learn somewhere IG) 
+
 `
 
 :lock:   Security Considerations
