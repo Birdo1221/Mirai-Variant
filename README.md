@@ -4,7 +4,7 @@
 :gear:  Running the C&C Server  ❗
 ```
 
-This is just the release of the code for the Controller and Client of a mirai varient 
+This is just the release of the code for the `Controller` and `Client` of a mirai varient 
 i had for about two years, Pretty Bad Code.
 I have Skidripped it, use if you must i will say to use the actual mirai
 source to build this as help if you stuggle compiling / running either the Controller / Client.
