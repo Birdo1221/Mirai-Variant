@@ -13,9 +13,11 @@ I have not add the full source of this varient as it just like the rest, in the 
 
 ```
 
+
 `
 (Gotta learn somewhere IG) 
 `
+
 
 :lock:   Security Considerations
 
@@ -23,7 +25,9 @@ This project is intended for educational and learning purposes only. The code pr
 
 The code does not include advanced security measures, and it is not suitable for Public use. If you plan to build a real botnet or similar systems, ensure that you understand the legal implications of you actions and the importance of securing  system's to prevent unauthorized access.
 
-:handshake:    Contributions are welcome! If you find any issues or have improvements to suggest, feel free to create a pull request or just reupload, no need to reference me for the SRC.
+:handshake:    Contributions are welcome! If you find any issues please try and fix, when i say this i mean actual try,  this will stay like this if you have improvements, `stop` as it a dead project, no need to reference me for the SRC as it not mine anyway for the original please refer to this link below .
+
+[ Golang Botnet ](https://github.com/jgamblin/Mirai-Source-Code/)
 
 :page_with_curl:    This project is licensed under the MIT License - see the LICENSE file for details.
 
