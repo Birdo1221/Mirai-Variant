@@ -14,9 +14,7 @@ I have not add the full source of this varient as it just like the rest, in the 
 ```
 
 `
-
 (Gotta learn somewhere IG) 
-
 `
 
 :lock:   Security Considerations
