@@ -1,4 +1,4 @@
-`Other Project [ Golang Botnet ](https://github.com/Birdo1221/Better-Go-Cnc/)`
+`Other Project` [ Golang Botnet ](https://github.com/Birdo1221/Better-Go-Cnc/)
 
 :gear: Running the C&C Server ❗
 
