@@ -1,4 +1,5 @@
-`Other Project` [ Golang Botnet ](https://github.com/Birdo1221/Better-Go-Cnc/)
+
+
 
 :gear: Running the C&C Server ❗
 
@@ -18,6 +19,10 @@ This is just the code for the `Controller` and `Client` from a Mirai variant I'v
 `
 (Gotta learn somewhere, I guess)
 `
+
+
+`Another Project` [ Golang Botnet ](https://github.com/Birdo1221/Better-Go-Cnc/)
+
 
 :lock: Security Considerations
 
