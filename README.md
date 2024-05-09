@@ -5,12 +5,14 @@
 This is just the code for the `Controller` and `Client` from a Mirai variant I've had for about two years.
 
 ```
-Use it if you must, but I would recommend using the original Mirai source.
+
+ Use it if you must, but I would recommend using the original Mirai source.
  To build and configure this, you will need the original source or another variant of Mirai.
 
-If you're struggling to compile or run either the Controller or Client,
+ If you're struggling to compile or run either the Controller or Client,
  you will need a basic knowledge of C and simple programming skills for it to work properly.
  I have not added the full source of this variant as it's similar to the rest in the world.
+
 ```
 
 `
