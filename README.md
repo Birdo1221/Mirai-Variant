@@ -6,7 +6,7 @@ This is just the code for the `Controller` and `Client` from a Mirai variant I'v
 
 ```
 
- Use it if you must, but I would recommend using the original Mirai source.
+ Use it if you must.
  To build and configure this, you will need the original source or another variant of Mirai.
 
  If you're struggling to compile or run either the Controller or Client,
