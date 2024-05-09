@@ -9,9 +9,11 @@ Use it if you must, but I would recommend using the original Mirai source. To bu
 
 If you're struggling to compile or run either the Controller or Client, you will need a basic knowledge of C and simple programming skills for it to work properly. I have not added the full source of this variant as it's similar to the rest in the world.
 ```
-``
+
+`
 (Gotta learn somewhere, I guess)
-``
+`
+
 :lock: Security Considerations
 
 This project is intended for educational and learning purposes only. The code provided here is a very simplified example of a botnet architecture. Remember that using a botnet for any malicious purposes is strictly prohibited and against ethical guidelines. This project is intended for educational and learning purposes only.
