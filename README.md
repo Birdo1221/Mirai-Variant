@@ -3,7 +3,7 @@
 
 :gear: Running the C&C Server ❗
 
-This is just the code for the `Controller` and `Client` from a Mirai variant I've had for about two years.
+This is just the code for the `Server` and `Client` from a Mirai variant.  I've had this for about two years.
 
 ```
 
