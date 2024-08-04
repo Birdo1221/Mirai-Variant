@@ -1,3 +1,4 @@
+## This project is Depreciated and Wont recive further updates
 
 :gear: Mirai Server + Client Varient ❗
 
@@ -29,6 +30,6 @@ This project is intended for educational and learning purposes only. The code pr
 
 The code does not include advanced security measures, and it is not suitable for public use. If you plan to build a real botnet or similar systems, ensure that you understand the legal implications of your actions and the importance of securing systems to prevent unauthorized access.
 
-:handshake: Contributions are welcome! If you find any issues, please try to fix them. When I say this, I mean actually try; this project will remain as is. If you have improvements, stop, as it's a dead project. There's no need to reference me for the source, as it's not mine anyway. For the original, please refer to the link below.
+:handshake: Contributions are welcome! If you find any issues, just try to fix them. If you have improvements, stop, as it's a dead project. There's no need to reference me for the source, as it's not mine anyway.
 
 :page_with_curl: This project is licensed under the MIT License - see the LICENSE file for details.
