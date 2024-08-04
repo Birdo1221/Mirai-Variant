@@ -1,9 +1,7 @@
 
+:gear: Mirai Server + Client Varient ❗
 
-
-:gear: C&C Server ❗
-
-This is just the code for the `Server` and `Client` from a Mirai variant.  I've had this for about two years.
+This contains code of a mirai botnet varient, both `Server` and `Client`.  I've had this for about two years.
 
 ```
 
@@ -24,6 +22,8 @@ If you looking for a Better Varient / Type see my
 [ Another Project - Golang Botnet ](https://github.com/Birdo1221/Better-Go-Cnc/)
 
 :lock: Security Considerations
+
+This is condidered a Well known / used malware type as well so it will get flagged by basic AV / Detection pretty easily.
 
 This project is intended for educational and learning purposes only. The code provided here is a very simplified example of a botnet architecture. Remember that using a botnet for any malicious purposes is strictly prohibited and against ethical guidelines. This project is intended for educational and learning purposes only.
 
