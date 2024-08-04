@@ -1,25 +1,26 @@
 
 
 
-:gear: Running the C&C Server ❗
+:gear: C&C Server ❗
 
 This is just the code for the `Server` and `Client` from a Mirai variant.  I've had this for about two years.
 
 ```
 
- Use it if you must.
- To build and configure this, you will need the original source or another variant of Mirai.
+ Use it if your curious.
+ If you're struggling to compile or run either the Controller or Client, you might need 
+ to build and configure this, with the original source or another variant of Mirai to compile together.
 
- If you're struggling to compile or run either the Controller or Client,
- you will need a basic knowledge of C and simple programming skills for it to work properly.
- I have not added the full source of this variant as it's similar to the rest in the world.
+ You will need some understanding of C and basic programming knowledge.
+ I have not added the full source of this variant as it's similar to the rest that is currently public.
+ This is a working source from last time tested.
 
 ```
 
 `
 (Gotta learn somewhere, I guess)
 `
-
+If you looking for a Better Varient / Type see my
 [ Another Project - Golang Botnet ](https://github.com/Birdo1221/Better-Go-Cnc/)
 
 :lock: Security Considerations
