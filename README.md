@@ -7,7 +7,7 @@ Update link change from Naming Desc to Readme.md
 I Recommend using the 'original' source for this as well as just fixing 
 and touching up this is most likley the last time this is getting edited Enjoy.
 
-[ 'original' source Botnet ](https://github.com/jgamblin/Mirai-Source-Code)
+[ 'original' mirai source  for patches / fixes ](https://github.com/jgamblin/Mirai-Source-Code)
 
 This contains code of a mirai botnet varient, both `Server` and `Client`.  I've had this for about two years.
 
